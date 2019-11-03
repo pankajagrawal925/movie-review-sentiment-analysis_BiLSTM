@@ -1,1 +1,1 @@
-# movie-review-sentiment-analysis_BiLSTM
+# movie-review-sentiment-analysis_BiLSTM_Attention
